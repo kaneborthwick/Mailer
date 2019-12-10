@@ -14,7 +14,7 @@
     "prefer-stable": true,
     "require": {
        "php": "^7.1",
-        "towersystems/resource": "^1.0.0",
+        "towersystems/resource": "dev-master@dev",
         "webmozart/assert": "^1.3"
     },
     "require-dev": {
